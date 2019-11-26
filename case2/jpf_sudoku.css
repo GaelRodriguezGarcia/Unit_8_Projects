@@ -39,6 +39,7 @@
     width: 100%;
 }
 .subTable td {
+    box-shadow: inset 0px 0px 15px;
     font-size: 20px; 
     color: blue; 
     width: 40px; 
